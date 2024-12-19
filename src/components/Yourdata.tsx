@@ -1,11 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
 import ElementImage from '@/app/public/images/Element.png'
-import Apple from '@/app/public/images/Apple.png'
-import Microsoft from '@/app/public/images/microsoft 1.png'
-import Slack from '@/app/public/images/Slack_Technologies_Logo 1.png'
-import Google from '@/app/public/images/Group 246.png'
-
 
 const Yourdata = () => {
   return (
